@@ -1,1 +1,5 @@
 # Fraudulent Claim Detection
+CASE STUDY TEAM:
+- MAI VAN KHANH
+- KARTHIK RAMESH
+- DEVA PRABHA
